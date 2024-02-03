@@ -1,0 +1,2 @@
+# Medioshop
+GDSC Solution Challenge
